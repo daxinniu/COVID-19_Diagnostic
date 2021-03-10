@@ -1,2 +1,2 @@
 # COVID-19_Diagnostic
-COVID-19 Diagnosis Using Chest X-Ray Data
+This project uses Chest X-Ray Data to train a deep neural network to help diagnose COVID-19.
